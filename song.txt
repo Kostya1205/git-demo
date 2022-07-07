@@ -2,6 +2,7 @@ songing song
 watching the muvi
 I learning the git
 you 
+<<<<<<< HEAD
 watching the muvi
 I learning the git
 you 
@@ -10,3 +11,7 @@ git test
 I learning the gi
 
 git test
+=======
+I learning the git
+you 
+>>>>>>> 7e4fa8fa4c774d35343316af6cdce345506db2b3
